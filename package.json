@@ -1,0 +1,19 @@
+{
+  "name": "cypress_arenaquest",
+  "version": "1.0.0",
+  "description": "automatisatuin de tests d'Arena Quest",
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "license": "ISC",
+  "author": "Dylan E",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^15.11.0"
+  }
+}
